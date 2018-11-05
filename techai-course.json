@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "baba-gcp-speech--1529960833336",
+  "private_key_id": "257693051d05c5444976f20c92be5100b320586c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTxXrufTK8nngx\nD8CxPiholHToGf9lxxOzNXta7ZHE881WYAfrJa/FmYzVmHbcvjQ5kUV4nCzJ9CHi\nMFUfV4dzH2N8SIAqOA5LOSWKD1YU9w0tUtKMp8UvaN98NLGWb/AKlijgKdB5kdT/\nKqf/llUhZS2rDZmp3p/cr34hf2NUegEcZQoQ+rF1axGE1BDvbnov00muc31a3EhG\nx6uC1ywuy3w6oZ1BG40M5F9lm2qS9WO8kDXT/xSBjvSsTHt6deLmmbNFR/pNnKYz\nnGJTBgKgIzKrqTknb4KB3o7kQd55juuzOSbfYBiFiDH9UjVqFT10v4T5DiomrBOb\nx5fAnWRRAgMBAAECggEAC9t7Uh4teJUw6qJUqjfuQEjLsPE/tR2r8zVT5lf1+P6j\nqSnwV5DBIkHCOnVydlKqDu0c5C9ubJJgUU9efMZEXcRMqDlQ/8wqtLiK6wuHyN26\nXabNBjYgmtJ27PfwV5mF6bnVqRN+SkhJkk37oRp0Qs3s/C5jQ7kk31DuMYb181VV\nUMrI3LH7LeRBsZm+/mzZUhAYLkAgRr6uazBLTdiSAP+dB/DRcRz1zmQ3eeqVa1RG\nRPp4QxBy7q1jB89JfsvjZE70Mft6y6ucBvpPqF2jh6QI3JbWIdhcI6Z3TluNIj4z\nUvLpdvAZ7u9f3qBNyePrFhPTvXirOLXT0p67dkuexwKBgQD8b5l6HsBy4dAhlVPE\njZcyHTaVcin4FhgJSVs7mwIyxVSiDg9gJ9Y1um4BSwTAcjyz5h9o29hv6OeRjRfW\nD0dsJ8POb2nRGOcIgQCn2fOuD2Kwzq0PKYzgwDZKS+/DzdN8imAOzbX05ehfebCq\nVcCYzmzS6ux16gkiGJhXFb9LfwKBgQDWwudIZ4MfOfZtWMeXQx7pjFtRY+1BZaDm\nJ3oBvO+HsP/VE9mve2axrV0WV47upHUu3FqZTngyl7mC67KMpYM23M9e5HiichvO\nj7zJh5jF+458cqaDT+25uERDj5NDvdALfao37UcnEwcfOE7yxT0Hk2NY1zvITXI+\n4nqOsmV4LwKBgHtglBOiug6sHUx8rn9vcIlWy9nI/Yg6TC8lwkhkn3NvDMlTs+Ic\nNk72OlO5da4VZ2PJwmo+oQ85Nwzld9PwjcjnuoTH4WEIGcsHOenP1ZCqBmNB8EVr\n2mXyq9YuPRZnH8lL3Fz/38G9KJCZamYmGUbWBUwk88NByor2mGZfw6pDAoGATOTB\n/KmbSA3vzpzv8ZfFtKdddtnJdBXYMy/FPmQQe0wDfZ463drYHRvObZZyBb36ewnI\nooV3Ad5TPK35YuRMA9Oxp+8zxi4HCMFsPdf/+jskfChsuC1hF5MDVhFND/8hQ0v+\nK0IYrMPiU+pMUh4OyOybsI53yDL6ict7SCZVsF8CgYEAmfTgQ3sKCZZtJdwQbGW1\nX4pf+yHf34rLjBCZGJsnh7OAgJ1+ghuxYoIflvd7uQqgYB5/X8H0Z3DjYZBBwn/y\nCFhLPgegDOjkQxz+dzrszR+G837/U7YWimjit39mMOn8PT/UADCn8gUbqUUDJQRE\nd9WNnR4fqKnNTE/FXvYudwo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "techai-course@baba-gcp-speech--1529960833336.iam.gserviceaccount.com",
+  "client_id": "116802771067170715600",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/techai-course%40baba-gcp-speech--1529960833336.iam.gserviceaccount.com"
+}
